@@ -1,0 +1,5 @@
+Credentials cache: API:35E55E81-D8A0-440F-AEB9-3C3F833828A6
+        Principal: wkorande@HIVE.FI
+
+  Issued                Expires               Principal
+Jul  8 13:07:44 2019  Jul  8 23:07:44 2019  krbtgt/HIVE.FI@HIVE.FI
